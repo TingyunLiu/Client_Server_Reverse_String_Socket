@@ -23,5 +23,4 @@ The program can be compiled by Python 2.7.12
 -------------------
 Running Environment 
 -------------------
-The program has been run and tested on student environment @ubuntu1604-006%(server) and
-	@ubuntu1604-008%(client).
+The program has been run and tested on ubuntu environments.
